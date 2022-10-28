@@ -1,8 +1,6 @@
 <div align="center" width="50">
 
-<img src="" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="50%"/><br> 
-
+<img src="https://github.com/SebastianSoss4/SebastianSoss4/blob/main/gif/totoro-gif.gif" width="60%"/> <br>
 <hr>
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
@@ -22,5 +20,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebastiansoss4)
 
 <hr>
-
+<div align="center">
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="75%"/>
+</div>
