@@ -16,9 +16,8 @@
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
 <hr></div>
 
-![](http://github-readme-streak-stats.herokuapp.com?user=SebastianSoss4)<br>
-![](https://github-readme-stats.vercel.app/api?username=Sebastiansoss4&show_icons=true)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebastiansoss4)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebastian-Sossa18&langs_count=10&show_icons=true&line_height=20&title_color=#000000&text_color=D3D3D3&layout=compact)
+
 
 <hr>
 <div align="center">
