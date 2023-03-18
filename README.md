@@ -1,7 +1,7 @@
 <h1 align="center">Hi :) I'm  Johan Sebastian Sossa R.</h1>
 <h3 align="center">I really love  programming 🧡 and its fields especially Java and JavaScript :)</h3>
 
-<img src="https://github.com/SebastianSoss4/SebastianSoss4/blob/main/gif/totoro-gif.gif" width="60%"/> <br>
+<img src="https://github.com/Sebastian-Sossa18/Sebastian-Sossa18/blob/main/gif/Bojack.gif" width="60%"/> <br>
 <hr>
 
 <center> - 🌱 I’m currently learning **Java(Spring), JavaScript(React) and Kotlin.**</center>
