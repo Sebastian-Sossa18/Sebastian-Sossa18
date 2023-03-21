@@ -32,7 +32,7 @@
   <hr>
   <h3 align="center">My Stats</h3>
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Sebastian-Sossa18&theme=whitelight&background=f2f0f0" height="192px"/></a>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebastian-Sossa18&theme=radical&layout=compact" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebastian-Sossa18&theme=radical&layout=compact&" />
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.cyclic.app/graph/?username=Sebastian-Sossa18&bg_color=f2f0f0&color=00e313&line=00e313&point=1c1001&hide_border=true" /></a>
 </p>
