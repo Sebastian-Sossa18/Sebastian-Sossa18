@@ -29,6 +29,18 @@
    <img  align="center" src="https://i.imgur.com/ArNFQ.gif" width="10%"/>
   </p>
 </div>
+
+<div>
+<h2>Comandos Execenciales</h2>
+<code>
+git config --global user.name 'name'
+git config --global user.email 'email'
+</code>
+<a href='https://overapi.com/git' target='_blank'>
+https://overapi.com/git
+</a>
+</div>
+
   <hr>
   <h3 align="center">My Stats</h3>
   
