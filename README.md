@@ -29,9 +29,8 @@
    <img  align="center" src="https://i.imgur.com/ArNFQ.gif" width="10%"/>
   </p>
 </div>
-
-<div>
-<h2>Comandos Execenciales</h2>
+   <div id="header" align="center">
+<h2>Comandos importantes</h2>
 <code>
 git config --global user.name 'name'
 git config --global user.email 'email'
@@ -40,6 +39,7 @@ git config --global user.email 'email'
 <a href='https://overapi.com/git' target='_blank'>
 https://overapi.com/git
 </a>
+   </div>
 </div>
 
   <hr>
