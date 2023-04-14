@@ -6,10 +6,6 @@
   
 </div>
 <hr>
-<div id="header" align="center">
-  <center> - 🌱 I’m currently learning * Java(Spring)*</center>
-<br><br>
-
 <center>- 👯 I’m looking to collaborate on [SECODE_QR](https://jhonatan2022.github.io/SECODE_QR/secode/views/)</center>
 <br><br>
 
@@ -27,7 +23,7 @@
 
   <hr>
   <h3 align="center">Favourite language</h3>
-   <img  align="center" src="https://i.imgur.com/ArNFQ.gif" width="10%"/>
+   <img  align="center" src="https://surfingthecode.com/img/python.gif" width="10%"/>
   </p>
 </div>
    <div id="header" align="center">
